@@ -16,7 +16,9 @@ namespace City.InfoEmptyTemplate.Controllers
             {
                 new {id = 1, Name = "Pune"},
                 new {id = 2, Name = "Mumbai"},
-                new {id = 3, Name = "Nagpur"}
+                new {id = 3, Name = "Nagpur"},
+                new {id = 4, Name = "Mumbai1"},
+                new {id = 5, Name = "Nagpur1"}
             });
         }
 
