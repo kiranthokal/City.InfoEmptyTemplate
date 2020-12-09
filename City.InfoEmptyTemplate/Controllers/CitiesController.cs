@@ -15,7 +15,8 @@ namespace City.InfoEmptyTemplate.Controllers
             return new JsonResult(new List<object>
             {
                 new {id = 1, Name = "Pune"},
-                new {id = 2, Name = "Mumbai"}
+                new {id = 2, Name = "Mumbai"},
+                new {id = 3, Name = "Nagpur"}
             });
         }
 
